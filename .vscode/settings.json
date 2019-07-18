@@ -1,0 +1,15 @@
+{
+    "workbench.colorCustomizations": {
+		"activityBar.background": "#418B6D",
+        "statusBar.background": "#5FF3A8",
+        "statusBar.foreground": "#b3b3b3",
+        "scrollbarSlider.activeBackground": "#418B6D",
+        "editorSuggestWidget.highlightForeground": "#b3b3b3",
+        "titleBar.inactiveBackground": "#5FF3A8",
+		"titleBar.activeBackground": "#418B6D",
+        "progressBar.background": "#418B6D",
+        "pickerGroup.foreground": "#418B6D",
+		"tab.activeBorder": "#418B6D",
+		"list.highlightForeground": "#418B6D",
+	}
+}
